@@ -122,7 +122,8 @@ print(y_prednew)
 ### Y_prednew
 ![image](https://github.com/SanjayBalaji0/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145533553/ad1f7e8e-dec2-4190-a45a-1b53c9fe7a45)
 ### Y_prednew
-![image](https://github.com/SanjayBalaji0/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145533553/9416a246-2833-48a5-a123-1452d70a3da8)
+![image](https://github.com/Jeevithaelumalai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118708245/9f0da623-671e-41a5-9abb-edf0b1d8c38c)
+
 
 
 
